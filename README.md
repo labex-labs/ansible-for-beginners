@@ -26,4 +26,3 @@ This course is designed to teach you the basics of using Ansible to configure Li
 |      13 | 📖 Ansible Stat Module                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/290192'>Start Lab</a> |
 |      14 | 📖 Manage Multiple Ansible Inventories | ★☆☆          | <a target='_blank' href='https://labex.io/labs/290193'>Start Lab</a> |
 
-> Updated at: 2024-05-21T05:52:33Z
