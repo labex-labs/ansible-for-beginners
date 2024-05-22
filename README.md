@@ -9,8 +9,8 @@ This course is designed to teach you the basics of using Ansible to configure Li
 
 ## Scenarios
 
-|   Index | Name                                   | Difficulty   | URL                                                                  |
-|---------|----------------------------------------|--------------|----------------------------------------------------------------------|
+|   Index | Name                                  | Difficulty   | URL                                                                  |
+|---------|---------------------------------------|--------------|----------------------------------------------------------------------|
 |      01 | 📖 Ansible Installation on Ubuntu      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/67172'>Start Lab</a>  |
 |      02 | 📖 Ansible Script Module               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/289411'>Start Lab</a> |
 |      03 | 📖 Ansible Shell Module                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/289409'>Start Lab</a> |
