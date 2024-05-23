@@ -9,7 +9,7 @@ This course is designed to teach you the basics of using Ansible to configure Li
 
 ## Scenarios
 
-|   Index | Name                                  | Difficulty   | URL                                                                  |
+|   Index | Name                                  | Difficulty   | Practice                                                             |
 |---------|---------------------------------------|--------------|----------------------------------------------------------------------|
 |      01 | 📖 Ansible Installation on Ubuntu      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/67172'>Start Lab</a>  |
 |      02 | 📖 Ansible Script Module               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/289411'>Start Lab</a> |
@@ -25,4 +25,9 @@ This course is designed to teach you the basics of using Ansible to configure Li
 |      12 | 📖 Ansible Local Action Module         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/290189'>Start Lab</a> |
 |      13 | 📖 Ansible Stat Module                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/290192'>Start Lab</a> |
 |      14 | 📖 Manage Multiple Ansible Inventories | ★☆☆          | <a target='_blank' href='https://labex.io/labs/290193'>Start Lab</a> |
+
+## More
+
+- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Ansible Free Tutorials](https://github.com/labex-labs/ansible-free-tutorials)
 
