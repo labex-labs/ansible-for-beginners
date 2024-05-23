@@ -28,6 +28,7 @@ This course is designed to teach you the basics of using Ansible to configure Li
 
 ## More
 
-- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Ansible Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Ansible Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
 - 🔗 [Ansible Free Tutorials](https://github.com/labex-labs/ansible-free-tutorials)
 
