@@ -25,22 +25,31 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 
 ## Exercises
 
-|   Index | Name                                   | Difficulty   | Practice                                                                                                              |
-|---------|----------------------------------------|--------------|-----------------------------------------------------------------------------------------------------------------------|
-|      01 | 📖 Ansible Installation on Ubuntu      | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/ansible-ansible-installation-on-ubuntu-67172'>Start Lab</a>       |
-|      02 | 📖 Ansible Script Module               | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/ansible-ansible-script-module-289411'>Start Lab</a>               |
-|      03 | 📖 Ansible Shell Module                | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/ansible-ansible-shell-module-289409'>Start Lab</a>                |
-|      04 | 📖 Ansible Apt Module                  | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/ansible-ansible-apt-module-289651'>Start Lab</a>                  |
-|      05 | 📖 Ansible Copy Module                 | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/ansible-ansible-copy-module-289653'>Start Lab</a>                 |
-|      06 | 📖 Ansible File Module                 | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/ansible-ansible-file-module-289654'>Start Lab</a>                 |
-|      07 | 📖 Ansible Cron Module                 | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/ansible-ansible-cron-module-290157'>Start Lab</a>                 |
-|      08 | 📖 Ansible Fetch Module                | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/ansible-ansible-fetch-module-290159'>Start Lab</a>                |
-|      09 | 📖 Ansible Groups Inventory            | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/ansible-ansible-groups-inventory-290160'>Start Lab</a>            |
-|      10 | 📖 Ansible Command Module              | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/ansible-ansible-command-module-290161'>Start Lab</a>              |
-|      11 | 📖 Ansible get_url Module              | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/ansible-ansible-get-url-module-290188'>Start Lab</a>              |
-|      12 | 📖 Ansible Local Action Module         | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/ansible-ansible-local-action-module-290189'>Start Lab</a>         |
-|      13 | 📖 Ansible Stat Module                 | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/ansible-ansible-stat-module-290192'>Start Lab</a>                 |
-|      14 | 📖 Manage Multiple Ansible Inventories | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/ansible-manage-multiple-ansible-inventories-290193'>Start Lab</a> |
+|   Index | Name                                           | Difficulty   | Practice                                                                                                                             |
+|---------|------------------------------------------------|--------------|--------------------------------------------------------------------------------------------------------------------------------------|
+|      01 | 📖 Ansible Installation on Ubuntu               | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/ansible-ansible-installation-on-ubuntu-67172'>Start Lab</a>                      |
+|      02 | 🎯 Setup Ansible by Yourself                    | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/ansible-setup-ansible-by-yourself-390383'>Start Challenge</a>                    |
+|      03 | 📖 Ansible Configuration                        | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/ansible-ansible-configuration-390437'>Start Lab</a>                              |
+|      04 | 🎯 Resolving Ansible Python Interpreter Warning | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/ansible-resolving-ansible-python-interpreter-warning-390490'>Start Challenge</a> |
+|      05 | 📖 Ansible Groups Inventory                     | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/ansible-ansible-groups-inventory-290160'>Start Lab</a>                           |
+|      06 | 📖 Ansible Ad-Hoc Commands                      | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/ansible-ansible-ad-hoc-commands-390441'>Start Lab</a>                            |
+|      07 | 📖 Ansible Playbook Basics                      | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/ansible-ansible-playbook-basics-390426'>Start Lab</a>                            |
+|      08 | 📖 Manage Multiple Ansible Inventories          | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/ansible-manage-multiple-ansible-inventories-290193'>Start Lab</a>                |
+|      09 | 🎯 Ansible Group Variables                      | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/ansible-ansible-group-variables-96690'>Start Challenge</a>                       |
+|      10 | 📖 Ansible Conditionals and Loops               | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/ansible-ansible-conditionals-and-loops-390455'>Start Lab</a>                     |
+|      11 | 📖 Ansible Jinja2 Templates                     | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/ansible-ansible-jinja2-templates-390470'>Start Lab</a>                           |
+|      12 | 📖 Ansible Roles                                | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/ansible-ansible-roles-390467'>Start Lab</a>                                      |
+|      13 | 📖 Ansible Command Module                       | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/ansible-ansible-command-module-290161'>Start Lab</a>                             |
+|      14 | 📖 Ansible Shell Module                         | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/ansible-ansible-shell-module-289409'>Start Lab</a>                               |
+|      15 | 📖 Ansible Apt Module                           | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/ansible-ansible-apt-module-289651'>Start Lab</a>                                 |
+|      16 | 📖 Ansible Copy Module                          | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/ansible-ansible-copy-module-289653'>Start Lab</a>                                |
+|      17 | 📖 Ansible File Module                          | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/ansible-ansible-file-module-289654'>Start Lab</a>                                |
+|      18 | 📖 Ansible Fetch Module                         | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/ansible-ansible-fetch-module-290159'>Start Lab</a>                               |
+|      19 | 📖 Ansible get_url Module                       | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/ansible-ansible-get-url-module-290188'>Start Lab</a>                             |
+|      20 | 📖 Ansible Stat Module                          | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/ansible-ansible-stat-module-290192'>Start Lab</a>                                |
+|      21 | 📖 Ansible Cron Module                          | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/ansible-ansible-cron-module-290157'>Start Lab</a>                                |
+|      22 | 📖 Ansible Local Action Module                  | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/ansible-ansible-local-action-module-290189'>Start Lab</a>                        |
+|      23 | 📖 Ansible Script Module                        | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/ansible-ansible-script-module-289411'>Start Lab</a>                              |
 
 ## More
 
