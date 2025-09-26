@@ -1,14 +1,14 @@
-# Быстрый старт с Ansible
+# Ansible для начинающих
 
 ## Языки
 
 🇨🇳 [简体中文](README_zh.md) 🇪🇸 [Español](README_es.md) 🇫🇷 [Français](README_fr.md) 🇩🇪 [Deutsch](README_de.md) 🇯🇵 [日本語](README_ja.md) 🇷🇺 [Русский](README_ru.md) 🇰🇷 [한국어](README_ko.md) 🇧🇷 [Português](README_pt.md) 🇺🇸 [English](README.md) 
 
-[![Быстрый старт с Ansible](https://cover-creator.labex.io/quick-start-with-ansible.png?lang=ru)](https://labex.io/ru/courses/quick-start-with-ansible)
+[![Ansible для начинающих](https://cover-creator.labex.io/ansible-for-beginners.png?lang=ru)](https://labex.io/ru/courses/ansible-for-beginners)
 
-[![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/ru/courses/quick-start-with-ansible)
+[![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/ru/courses/ansible-for-beginners)
 
-Этот курс разработан для обучения основам использования Ansible для настройки хостов Linux. Он включает введение в Ansible, установку и несколько простых примеров использования Ansible для выполнения общих задач.
+Этот курс разработан, чтобы научить вас основам использования Ansible для настройки хостов Linux. Он включает введение в Ansible, установку и несколько простых примеров использования Ansible для выполнения общих задач.
 
 ![Ansible](https://img.shields.io/badge/Ansible-whitesmoke?style=for-the-badge&logo=ansible)
 
