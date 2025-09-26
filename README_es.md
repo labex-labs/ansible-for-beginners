@@ -1,14 +1,14 @@
-# Inicio rápido con Ansible
+# Ansible para Principiantes
 
 ## Idiomas
 
 🇨🇳 [简体中文](README_zh.md) 🇪🇸 [Español](README_es.md) 🇫🇷 [Français](README_fr.md) 🇩🇪 [Deutsch](README_de.md) 🇯🇵 [日本語](README_ja.md) 🇷🇺 [Русский](README_ru.md) 🇰🇷 [한국어](README_ko.md) 🇧🇷 [Português](README_pt.md) 🇺🇸 [English](README.md) 
 
-[![Inicio rápido con Ansible](https://cover-creator.labex.io/quick-start-with-ansible.png?lang=es)](https://labex.io/es/courses/quick-start-with-ansible)
+[![Ansible para Principiantes](https://cover-creator.labex.io/ansible-for-beginners.png?lang=es)](https://labex.io/es/courses/ansible-for-beginners)
 
-[![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/es/courses/quick-start-with-ansible)
+[![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/es/courses/ansible-for-beginners)
 
-Este curso está diseñado para enseñarte los conceptos básicos de cómo usar Ansible para configurar hosts Linux. Incluye una introducción a Ansible, la instalación y algunos ejemplos simples de cómo usar Ansible para realizar tareas comunes.
+Este curso está diseñado para enseñarte los conceptos básicos del uso de Ansible para configurar hosts Linux. Incluye una introducción a Ansible, la instalación y algunos ejemplos sencillos de cómo usar Ansible para realizar tareas comunes.
 
 ![Ansible](https://img.shields.io/badge/Ansible-whitesmoke?style=for-the-badge&logo=ansible)
 
