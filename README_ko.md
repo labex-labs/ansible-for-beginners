@@ -1,14 +1,14 @@
-# Ansible 퀵 스타트
+# 초보자를 위한 Ansible
 
 ## 언어
 
 🇨🇳 [简体中文](README_zh.md) 🇪🇸 [Español](README_es.md) 🇫🇷 [Français](README_fr.md) 🇩🇪 [Deutsch](README_de.md) 🇯🇵 [日本語](README_ja.md) 🇷🇺 [Русский](README_ru.md) 🇰🇷 [한국어](README_ko.md) 🇧🇷 [Português](README_pt.md) 🇺🇸 [English](README.md) 
 
-[![Ansible 퀵 스타트](https://cover-creator.labex.io/quick-start-with-ansible.png?lang=ko)](https://labex.io/ko/courses/quick-start-with-ansible)
+[![초보자를 위한 Ansible](https://cover-creator.labex.io/ansible-for-beginners.png?lang=ko)](https://labex.io/ko/courses/ansible-for-beginners)
 
-[![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/ko/courses/quick-start-with-ansible)
+[![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/ko/courses/ansible-for-beginners)
 
-본 과정은 Ansible 을 사용하여 Linux 호스트를 구성하는 기본 사항을 가르치도록 설계되었습니다. Ansible 소개, 설치, 그리고 Ansible 을 사용하여 일반적인 작업을 수행하는 몇 가지 간단한 예제를 포함합니다.
+본 과정은 Ansible 을 사용하여 Linux 호스트를 구성하는 기본 사항을 학습하도록 설계되었습니다. Ansible 소개, 설치 방법, 그리고 일반적인 작업을 수행하기 위해 Ansible 을 사용하는 몇 가지 간단한 예제를 포함합니다.
 
 ![Ansible](https://img.shields.io/badge/Ansible-whitesmoke?style=for-the-badge&logo=ansible)
 
