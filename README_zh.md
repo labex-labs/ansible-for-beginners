@@ -1,14 +1,14 @@
-# Ansible 快速入门
+# Ansible 入门
 
 ## 支持语言
 
 🇨🇳 [简体中文](README_zh.md) 🇪🇸 [Español](README_es.md) 🇫🇷 [Français](README_fr.md) 🇩🇪 [Deutsch](README_de.md) 🇯🇵 [日本語](README_ja.md) 🇷🇺 [Русский](README_ru.md) 🇰🇷 [한국어](README_ko.md) 🇧🇷 [Português](README_pt.md) 🇺🇸 [English](README.md) 
 
-[![Ansible 快速入门](https://cover-creator.labex.io/quick-start-with-ansible.png?lang=zh)](https://labex.io/zh/courses/quick-start-with-ansible)
+[![Ansible 入门](https://cover-creator.labex.io/ansible-for-beginners.png?lang=zh)](https://labex.io/zh/courses/ansible-for-beginners)
 
-[![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/zh/courses/quick-start-with-ansible)
+[![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/zh/courses/ansible-for-beginners)
 
-本课程旨在教授使用 Ansible 配置 Linux 主机的基础知识。内容包括 Ansible 简介、安装以及使用 Ansible 执行常见任务的简单示例。 
+本课程旨在教授您使用 Ansible 配置 Linux 主机的基础知识。内容包括 Ansible 简介、安装，以及使用 Ansible 执行常见任务的几个简单示例。
 
 ![Ansible](https://img.shields.io/badge/Ansible-whitesmoke?style=for-the-badge&logo=ansible)
 
