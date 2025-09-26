@@ -1,14 +1,14 @@
-# Ansible のクイックスタート
+# 初心者向け Ansible
 
 ## 言語
 
 🇨🇳 [简体中文](README_zh.md) 🇪🇸 [Español](README_es.md) 🇫🇷 [Français](README_fr.md) 🇩🇪 [Deutsch](README_de.md) 🇯🇵 [日本語](README_ja.md) 🇷🇺 [Русский](README_ru.md) 🇰🇷 [한국어](README_ko.md) 🇧🇷 [Português](README_pt.md) 🇺🇸 [English](README.md) 
 
-[![Ansible のクイックスタート](https://cover-creator.labex.io/quick-start-with-ansible.png?lang=ja)](https://labex.io/ja/courses/quick-start-with-ansible)
+[![初心者向け Ansible](https://cover-creator.labex.io/ansible-for-beginners.png?lang=ja)](https://labex.io/ja/courses/ansible-for-beginners)
 
-[![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/ja/courses/quick-start-with-ansible)
+[![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/ja/courses/ansible-for-beginners)
 
-このコースは、Ansible を使用して Linux ホストを構成する基本を学ぶために設計されています。Ansible の紹介、インストール、および Ansible を使用して一般的なタスクを実行するいくつかの簡単な例が含まれています。
+本コースは、Ansible を使用して Linux ホストを設定するための基本を学ぶように設計されています。Ansible の紹介、インストール、および一般的なタスクを実行するために Ansible を使用するいくつかの簡単な例が含まれています。
 
 ![Ansible](https://img.shields.io/badge/Ansible-whitesmoke?style=for-the-badge&logo=ansible)
 
