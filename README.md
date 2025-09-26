@@ -1,12 +1,12 @@
-# Quick Start with Ansible
+# Ansible for Beginners
 
 ## Languages
 
 🇨🇳 [简体中文](README_zh.md) 🇪🇸 [Español](README_es.md) 🇫🇷 [Français](README_fr.md) 🇩🇪 [Deutsch](README_de.md) 🇯🇵 [日本語](README_ja.md) 🇷🇺 [Русский](README_ru.md) 🇰🇷 [한국어](README_ko.md) 🇧🇷 [Português](README_pt.md) 🇺🇸 [English](README.md) 
 
-[![Quick Start with Ansible](https://cover-creator.labex.io/quick-start-with-ansible.png)](https://labex.io/courses/quick-start-with-ansible)
+[![Ansible for Beginners](https://cover-creator.labex.io/ansible-for-beginners.png)](https://labex.io/courses/ansible-for-beginners)
 
-[![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/courses/quick-start-with-ansible)
+[![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/courses/ansible-for-beginners)
 
 This course is designed to teach you the basics of using Ansible to configure Linux hosts. It includes an introduction to Ansible, installation, and a few simple examples of using Ansible to perform common tasks.
 
