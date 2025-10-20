@@ -41,23 +41,13 @@ This course is designed to teach you the basics of using Ansible to configure Li
 |      22 | 📖  Ansible Local Action Module                  | Beginner     | <a target='_blank' href='https://labex.io/tutorials/ansible-ansible-local-action-module-290189'>Start Lab</a>                        |
 |      23 | 📖  Ansible Script Module                        | Beginner     | <a target='_blank' href='https://labex.io/tutorials/ansible-ansible-script-module-289411'>Start Lab</a>                              |
 
-## Environment
+## About LabEx
 
-LabEx is an interactive, hands-on learning platform dedicated to coding and technology. It combines labs, AI assistance, and virtual machines to provide a no-video, practical learning experience.
-
-![](https://tutorial-screenshot.getvm.io/images/vm-1725247253.png)
-
-- A strict "Learn by Doing" approach with exclusive hands-on labs and no videos.
-- Interactive online environments within the browser, with automated step-by-step checks.
-- A structured content organization with the Skill Tree based learning system.
-- A growing learning resource of 30 Skill Trees and over 6,000 Labs.
-- The learning assistant Labby, built on lastest AI models, providing a conversational learning experience.
-
-Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
+LabEx is an interactive, hands-on learning platform dedicated to coding and technology. It combines labs, AI assistance, and virtual machines to provide a no-video, practical learning experience. With a strict 'Learn by Doing' approach, interactive online environments in the browser with automated step-by-step checks, structured content organization through the Skill Tree learning system, and a growing resource of 30 Skill Trees and over 6,000 Labs, LabEx offers comprehensive practical education. The platform includes Labby, an AI learning assistant built on latest AI models, providing a conversational learning experience.
 
 ## More
 
-- 🔗 [DevOps Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [DevOps Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [DevOps Free Tutorials](https://github.com/labex-labs/devops-free-tutorials)
+- 🔗 [Ansible Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Ansible Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Ansible Free Tutorials](https://github.com/labex-labs/ansible-free-tutorials)
 
