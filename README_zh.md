@@ -41,23 +41,13 @@
 |     22 | 📖  Ansible Local Action 模块      | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/ansible-ansible-local-action-module-290189'>开始实验</a>                  |
 |     23 | 📖  Ansible Script 模块            | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/ansible-ansible-script-module-289411'>开始实验</a>                        |
 
-## 学习环境
+## 关于 LabEx
 
-LabEx 是一个专注于编程和技术的交互式动手学习平台。它结合了实验室、AI 辅助和虚拟机，提供无视频的实践学习体验。
-
-![](https://tutorial-screenshot.getvm.io/images/vm-1725247253.png)
-
-- 严格的"边学边做"方法，提供独家动手实验，无视频。
-- 浏览器内的交互式在线环境，具有自动化的逐步检查。
-- 基于技能树的结构化内容组织系统。
-- 不断增长的学习资源，包含 30 个技能树和超过 6,000 个实验。
-- 基于最新 AI 模型构建的学习助手 Labby，提供对话式学习体验。
-
-了解更多 [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
+LabEx 是一个专注于编程和技术的交互式动手学习平台。它结合了实验室、AI 辅助和虚拟机，提供无视频的实践学习体验。采用严格的'边学边做'方法，浏览器内的交互式在线环境具有自动化的逐步检查，基于技能树的结构化内容组织系统，以及不断增长的学习资源（包含 30 个技能树和超过 6,000 个实验），LabEx 提供全面的实践教育。该平台包含基于最新 AI 模型构建的学习助手 Labby，提供对话式学习体验。
 
 ## 更多
 
-- 🔗 [DevOps 编程课程](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [DevOps 编程项目](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [DevOps 免费教程](https://github.com/labex-labs/devops-free-tutorials)
+- 🔗 [Ansible 编程课程](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Ansible 编程项目](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Ansible 免费教程](https://github.com/labex-labs/ansible-free-tutorials)
 
